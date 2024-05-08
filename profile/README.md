@@ -33,3 +33,7 @@ We recognize our responsibility towards the environment and tirelessly advocate 
 
 Our team, our customers and our partners have the right and are encouraged to point out ethical misconduct. For this purpose, we have mechanisms in place that allow violations to be reported anonymously and unimpeded. We are also committed to continuous self-reflection and further refinements. For this, we set clear and measurable goals, the fulfillment of which we periodically review and publicly
 document.
+
+---
+
+## [WeMake AI](AI.md) | [WeMake PRODUCTS](PRODUCTS.md) | [WeMake SERVICES](SERVICES.md) | [WeMake ECOSYSTEM](ECOSYSTEM.md)
