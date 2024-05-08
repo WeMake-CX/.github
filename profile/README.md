@@ -1,4 +1,6 @@
-# 💙 WeMake - *WE MAKE DIGITAL EASY AS FUCK*
+# 💙 WeMake
+
+## *WE MAKE DIGITAL EASY AS FUCK*
 
 WeMake ist ein dynamisches, zukunftsorientiertes Team mit Sitz in Hannover. Mithilfe neuester Technologien und unserer fundierten Branchenkenntnisse möchten wir Unternehmen auf ihrem Weg zur digitalen Transformation unterstützen. Wir sind fest davon überzeugt, dass eine digital ausgerichtete Strategie für den Erfolg von Unternehmen in der heutigen schnelllebigen, technologiegetriebenen Welt
 unerlässlich ist.
