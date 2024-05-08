@@ -77,7 +77,8 @@ Komm zu uns bei WeMake, während wir diese spannende Reise antreten, nutze ICU, 
 
 ### WeMake SBS - Einfache Geschäftslösungen
 
-Darf ich vorstellen, WeMake SBS, die neueste Ergänzung zu unserer Reihe von innovativen Produkten, die darauf abzielen, deine Geschäftsabläufe für optimale Effizienz und Wachstum zu optimieren. WeMake SBS ist deine umfassende Toolbox, einzigartig entwickelt, um die Komplexitäten des modernen Business-Managements zu meistern, Prozesse zu vereinfachen und eine effizientere, produktivere Arbeitsumgebung zu schaffen.
+Darf ich vorstellen, WeMake SBS, die neueste Ergänzung zu unserer Reihe von innovativen Produkten, die darauf abzielen, deine Geschäftsabläufe für optimale Effizienz und Wachstum zu optimieren. WeMake SBS ist deine umfassende Toolbox, einzigartig entwickelt, um die Komplexitäten des modernen Business-Managements zu meistern, Prozesse zu vereinfachen und eine effizientere, produktivere
+Arbeitsumgebung zu schaffen.
 
 ### Umfassende Funktionen für moderne Unternehmen
 
