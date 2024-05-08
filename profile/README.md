@@ -36,4 +36,4 @@ document.
 
 ---
 
-## [WeMake AI](.profile/AI.md) | [WeMake PRODUCTS](.profile/PRODUCTS.md) | [WeMake SERVICES](.profile/SERVICES.md) | [WeMake ECOSYSTEM](.profile/ECOSYSTEM.md)
+## 💙WeMake - [AI](profile/AI.md) / [PRODUCTS](profile/PRODUCTS.md) / [SERVICES](profile/SERVICES.md) / [ECOSYSTEM](profile/ECOSYSTEM.md)
